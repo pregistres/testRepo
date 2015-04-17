@@ -1,3 +1,3 @@
 ini b1
 canvi en local
-canvi en local 2.1
+canvi en local 2.2
