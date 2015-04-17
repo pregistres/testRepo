@@ -1,2 +1,2 @@
 ini d2
-act1
+act2
