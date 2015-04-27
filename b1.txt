@@ -4,3 +4,4 @@ canvi en local 2.2
 canvi remot
 Cambio remoto edgar pino llach
 Esto es mara un merge
+y le pongo algo
