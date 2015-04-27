@@ -2,3 +2,4 @@ ini b1
 canvi en local
 canvi en local 2.2
 canvi remot
+Cambio remoto edgar
